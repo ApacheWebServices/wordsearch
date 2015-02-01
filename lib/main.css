@@ -1,6 +1,6 @@
 body {
 	font-family: courier, monospace;
-	font-size:16px;
+	font-size:20px;
 	background-image:url('../img/bg.jpg');
 	color:#333;
 }
@@ -21,8 +21,8 @@ body {
 	background-color: #ccccff;
 }
 #wordsearch td {
-	width:20px;
-	height:20px;
+	width:25px;
+	height:25px;
 	text-align:center;
 	padding:0px;
 	spacing:0px;
